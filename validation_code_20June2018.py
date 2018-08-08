@@ -14,7 +14,7 @@ import cx_Oracle
 from numpy import nan
 
 start = datetime.datetime.now() # Code start time
-
+## Git validation
 ## Get path where scripts is stored.
 ## Required folders and files will be created based on this path.
 os.chdir('C:\\Ashish\\codes\\project')
